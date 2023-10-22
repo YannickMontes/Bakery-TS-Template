@@ -37,7 +37,7 @@ L'intégralité de l'objet crée sera renvoyé, exemple:
 ```json
 {
 	"error": {
-		//...
+		
 	}
 }
 ```
